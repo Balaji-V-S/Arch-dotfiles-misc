@@ -17,7 +17,6 @@ sudo pacman -S linux-zen linux-zen-headers
 ```bash
 sudo pacman -S linux linux-headers
 ```
-
 ---
 
 ## 🧹 2. Disable Unnecessary Services
